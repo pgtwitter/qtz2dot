@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'qtz2dot' target in the 'qtz2dot' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+#endif
